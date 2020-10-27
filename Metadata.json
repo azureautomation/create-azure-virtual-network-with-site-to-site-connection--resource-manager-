@@ -1,7 +1,7 @@
 {
     "Author": "Justin Grote",
     "ContentSize": 7121,
-    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/create-azure-virtual-network-with-site-to-site-connection-(resource-manager)/master/New-AzureVirtualNetworkS2S.ps1",
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/create-azure-virtual-network-with-site-to-site-connection--resource-manager-/master/New-AzureVirtualNetworkS2S.ps1",
     "DownloadCount": 1119,
     "Id": "Create-Azure-Virtual-57ac35cd",
     "IsFederated": false,
@@ -15,6 +15,6 @@
     "Summary": "This is a script cmdlet that can be used to automate the deployment of an Azure virtual machine network that needs to be connected to an on-premise system.The cmdlet is based on the steps detailed in Cheryl's article: https://azure.microsoft.com/en-us/documentation/articles/vpn-g",
     "Title": "Create Azure Virtual Network with Site to Site Connection (Resource Manager)",
     "UpdatedDate": "2015-10-8T00:00:00",
-    "Url": "https://github.com/azureautomation/create-azure-virtual-network-with-site-to-site-connection-(resource-manager)",
+    "Url": "https://github.com/azureautomation/create-azure-virtual-network-with-site-to-site-connection--resource-manager-",
     "UserTags": ""
 }
